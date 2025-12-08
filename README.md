@@ -1,4 +1,4 @@
-# Renewable Energy and Carbon Emissions: A Cross-Country Analysis (2000–2023)
+# Renewable Energy and Carbon Emissions: A Cross-Country Analysis (2010–2024)
 
 > Analyzing whether countries with a higher share of renewable energy in their total energy supply emit less CO₂ per capita.
 
