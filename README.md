@@ -85,6 +85,15 @@ We conduct a quantitative, correlational analysis using a country-year panel dat
 - Removing extreme outliers produces **nearly identical coefficients**.  
 - Alternative functional form (log of renewable share) also yields negative, significant results.  
 - Conclusion: Findings are **highly stable and not driven by a small number of countries**.
+
+### Key Takeaways
+Global carbon dioxide (CO₂) emissions have continued to rise despite record levels of investment in renewable energy technologies. In this project, we set out to evaluate whether increasing the share of renewable energy in national electricity generation is meaningfully linked to reductions in carbon dioxide (CO₂) emissions. Using an international panel dataset from 2010 to 2024, our analysis consistently showed that countries with higher renewable electricity shares have lower CO₂ emissions per person.  
+
+Importantly, these reductions are observed to persist even when accounting for economic expansion, demonstrating that cleaner energy systems can indeed support climate progress without halting economic growth.  
+
+The results also suggest that the benefits of renewable shares are not limited to the year they are adopted. Evidence from our lag analysis indicates that emissions continue to decline in the years following increases in renewable electricity production. While GPD per capita remained positively associated with emissions overall, the negative and statistically significant relationship between renewable adoption and CO₂ emissions per capita shows that renewable energy helps weaken the historic link between a population's growth (GDP per capita) and pollution (carbon emissions) – a key observation made that can support advocating for more aggressive transitions towards sustainable development, such as increasing renewable energy shares in electricity.  
+
+Because this study uses observational data, we cannot make definitive casual claims. However, our findings align closely with policy goals across the globe that aim to target net-zero CO₂ emissions. As countries continue to modernize their energy systems, our results provide encouraging evidence that increasing renewable energy is a practical and effective strategy for reducing carbon emissions while still encouraging economic growth and opportunity.  
  
 
 ---
